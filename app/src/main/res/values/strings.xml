@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Note App</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_categories">Categories</string>
+
+    <string-array name="categories">
+        <item>General </item>
+        <item>Home</item>
+        <item>Work</item>
+        <item>School</item>
+    </string-array>
+    <string-array name="notes">
+        <item>Paying the bill.</item>
+        <item>Finish the project.</item>
+        <item>Go to work.</item>
+        <item>Paying the bill.</item>
+    </string-array>
+</resources>
